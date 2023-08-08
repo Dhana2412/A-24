@@ -1,0 +1,11 @@
+C:\AUG5\binary and xml\binary and xml\bin\Debug\binary and xml.exe.config
+C:\AUG5\binary and xml\binary and xml\bin\Debug\binary and xml.exe
+C:\AUG5\binary and xml\binary and xml\bin\Debug\binary and xml.pdb
+C:\AUG5\binary and xml\binary and xml\bin\Debug\A-24Lib.dll
+C:\AUG5\binary and xml\binary and xml\bin\Debug\A-24Lib.pdb
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.csproj.AssemblyReference.cache
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.csproj.SuggestedBindingRedirects.cache
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.csproj.CoreCompileInputs.cache
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.csproj.CopyComplete
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.exe
+C:\AUG5\binary and xml\binary and xml\obj\Debug\binary and xml.pdb

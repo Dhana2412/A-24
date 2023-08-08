@@ -1,0 +1,6 @@
+C:\AUG5\A-24Lib\A-24Lib\bin\Debug\A-24Lib.dll
+C:\AUG5\A-24Lib\A-24Lib\bin\Debug\A-24Lib.pdb
+C:\AUG5\A-24Lib\A-24Lib\obj\Debug\A-24Lib.csproj.AssemblyReference.cache
+C:\AUG5\A-24Lib\A-24Lib\obj\Debug\A-24Lib.csproj.CoreCompileInputs.cache
+C:\AUG5\A-24Lib\A-24Lib\obj\Debug\A-24Lib.dll
+C:\AUG5\A-24Lib\A-24Lib\obj\Debug\A-24Lib.pdb
